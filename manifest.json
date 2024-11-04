@@ -1,0 +1,19 @@
+{
+  "required_api_version": "2",
+  "name": "Desktop Actions Extension",
+  "description": "Parses .desktop files to run Desktop Actions",
+  "developer_name": "hkcowboy",
+  "icon": "images/run-build.svg",
+  "options": {
+    "query_debounce": 0.1
+  },
+  "preferences": [
+    {
+      "id": "desktop-actions-keyword",
+      "type": "keyword",
+      "name": "Desktop Actions Extension",
+      "description": "Parses .desktop files to run Desktop Actions",
+      "default_value": "x"
+    }
+  ]
+}
