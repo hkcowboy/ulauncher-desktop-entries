@@ -3,7 +3,7 @@
   "name": "Desktop Actions Extension",
   "description": "Parses .desktop files to run Desktop Actions",
   "developer_name": "hkcowboy",
-  "icon": "images/run-build.svg",
+  "icon": "run-build.svg",
   "options": {
     "query_debounce": 0.1
   },
